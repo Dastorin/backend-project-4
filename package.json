@@ -13,6 +13,7 @@
     "page-loader": "bin/page_loader.js"
   },
   "dependencies": {
+    "axios": "^1.6.2",
     "commander": "^11.1.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.28.1"
